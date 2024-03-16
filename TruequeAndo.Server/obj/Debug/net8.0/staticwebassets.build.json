@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "xGTmR9GuILf6K7tJKqgUCLBCadgm2B86AljPtLSpQQc=",
+  "Source": "TruequeAndo.Server",
+  "BasePath": "_content/TruequeAndo.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\villa\\OneDrive\\Documentos\\ProyectosVisual\\TruequeAndo\\truequeando.client\\truequeando.client.esproj",
+      "Version": 2,
+      "Source": "truequeando.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
