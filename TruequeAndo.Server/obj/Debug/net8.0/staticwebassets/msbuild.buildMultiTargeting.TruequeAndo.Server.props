@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TruequeAndo.Server.props" />
+</Project>
