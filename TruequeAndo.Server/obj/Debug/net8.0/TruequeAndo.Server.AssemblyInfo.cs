@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TruequeAndo.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e323b4e150991996a2a8ceda62fbbdf1d3c75193")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a8660a0bde191cef9b62c8acfaf75c172c1be0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TruequeAndo.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TruequeAndo.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
