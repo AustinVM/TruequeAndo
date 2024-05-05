@@ -1,1 +1,2 @@
 C:\Users\villa\OneDrive\Documentos\ProyectosVisual\TruequeAndo\truequeando.client\obj\Debug\truequeando.client.esproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\Portafolio\TruequeAndo\truequeando.client\obj\Debug\truequeando.client.esproj.CoreCompileInputs.cache

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "xGTmR9GuILf6K7tJKqgUCLBCadgm2B86AljPtLSpQQc=",
+  "Hash": "4ffkgpbwgfm7HyHjqd6d7VEFTbQ8u0qxCaxU6rUjuxI=",
   "Source": "TruequeAndo.Server",
   "BasePath": "_content/TruequeAndo.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\villa\\OneDrive\\Documentos\\ProyectosVisual\\TruequeAndo\\truequeando.client\\truequeando.client.esproj",
+      "Identity": "C:\\Users\\villa\\OneDrive\\Documentos\\Portafolio\\TruequeAndo\\truequeando.client\\truequeando.client.esproj",
       "Version": 2,
       "Source": "truequeando.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
