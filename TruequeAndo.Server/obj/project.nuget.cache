@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UYjtdnAwPJC+IFh5jkPpMsJQolqrE6GCCvgCze3CAW9eMI3AHGm/Ow2HN6cXn9z0JribiCHXRPfFK90H1I9wSQ==",
+  "dgSpecHash": "+Aul2R5OZvX9BrSXJOflK9pMMjnBYtNoKcsoO1c7poz31sZx5Db1aSS27OUupWZCQlP2DyKEjWY1tLuX4kFdzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\villa\\OneDrive\\Documentos\\ProyectosVisual\\TruequeAndo\\TruequeAndo.Server\\TruequeAndo.Server.csproj",
+  "projectFilePath": "C:\\Users\\villa\\OneDrive\\Documentos\\Portafolio\\TruequeAndo\\TruequeAndo.Server\\TruequeAndo.Server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\villa\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.3\\microsoft.aspnetcore.spaproxy.8.0.3.nupkg.sha512",
+    "C:\\Users\\villa\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.4\\microsoft.aspnetcore.spaproxy.8.0.4.nupkg.sha512",
     "C:\\Users\\villa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\villa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\villa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
