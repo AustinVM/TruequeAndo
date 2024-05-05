@@ -3,7 +3,11 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
+<<<<<<< HEAD
 "WorkingDirectory": "E:\\Proyecto TruqueAndo\\TruequeAndo\\TruequeAndo.Server\\..\\truequeando.client",
+=======
+"WorkingDirectory": "C:\\Users\\villa\\OneDrive\\Documentos\\Portafolio\\TruequeAndo\\TruequeAndo.Server\\..\\truequeando.client",
+>>>>>>> 0fcdaf1fa19e28352d805a63adfcb536f133a74b
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
