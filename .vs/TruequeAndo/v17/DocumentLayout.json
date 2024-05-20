@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\villa\\OneDrive\\Documentos\\Portafolio\\TruequeAndo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFBB670-3682-46B9-B33A-0CA63BC1F733}|truequeando.client\\truequeando.client.esproj|c:\\users\\villa\\onedrive\\documentos\\portafolio\\truequeando\\truequeando.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDFBB670-3682-46B9-B33A-0CA63BC1F733}|truequeando.client\\truequeando.client.esproj|solutionrelative:truequeando.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\villa\\OneDrive\\Documentos\\Portafolio\\TruequeAndo\\truequeando.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "truequeando.client\\src\\App.vue",
+              "ToolTip": "C:\\Users\\villa\\OneDrive\\Documentos\\Portafolio\\TruequeAndo\\truequeando.client\\src\\App.vue",
+              "RelativeToolTip": "truequeando.client\\src\\App.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-05-10T16:18:20.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
